@@ -4,6 +4,8 @@ There is a typo somewhere in markdown-text.md
 
 From your machine, try to find out where the typo is.
 
+(if you are on Ubuntu/similar)
+
 `
 nano LICENSE.md
 `

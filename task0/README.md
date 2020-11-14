@@ -3,7 +3,7 @@
 ## Set up Git
 
 ### Install
-Install Git. Please Google how.
+Install Git. Please [Google](https://www.google.com/search?q=how+to+install+git&oq=how+to+install+git) how.
 
 ### Configure
 Git needs to know who you are so don't forget to configure git with your name and email:
