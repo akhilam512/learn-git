@@ -24,5 +24,9 @@ Clone this repository so that you can access and modify the files from your syst
 git clone <link>
 `
 
+Get the link from here:
+
+<img src="https://user-images.githubusercontent.com/32199592/99156077-347df100-26e4-11eb-8cae-98111d8e7421.GIF"/>
+
 -------
 Do note that from this point onwards, avoid using the GitHub interface whenever possible - use the terminal!
