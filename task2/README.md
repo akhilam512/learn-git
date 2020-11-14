@@ -40,7 +40,10 @@ That's it. You'll be prompted for your username and password, fill 'em out and y
 
 Within a few seconds, your commit should appear on your forked repository on github.com/< your username >/learn-git
 
+-------
+:arrow_forward: Go to [Task 3](../task3/README.md)
 
+:arrow_backward: Or go back to [Task 2](../task2/README.md)
 
 
 

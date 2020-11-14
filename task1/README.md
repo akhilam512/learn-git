@@ -84,3 +84,7 @@ In the next task, we will see how to "push" this commit!
 
 
 
+------
+:arrow_forward: Go to [Task 2](../task2/README.md)
+
+:arrow_backward: Or go back to [Task 1](../task1/README.md) 

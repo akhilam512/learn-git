@@ -19,3 +19,8 @@ This is fairly simple to do. You can use the GitHub website to do this, just hea
 <image src="https://user-images.githubusercontent.com/32199592/99155477-380e7980-26de-11eb-906c-45b1bc5a109f.gif"/>
 
 Fill in a reasonable description and click more buttons - viola! Your first PR!
+
+-------
+:arrow_forward: Coming soon!
+
+:arrow_backward: Go back to [Task 3](../task3/README.md)
